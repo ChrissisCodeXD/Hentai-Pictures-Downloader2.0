@@ -16,7 +16,7 @@ import shutil
 import os
 def download(tags,limit,pages):
     try:
-        client = Danbooru('danbooru', username='Anime-Bot', api_key='JWLVmzT4JMdchfNTtSDx7Y8h')
+        client = Danbooru('danbooru', username='YOUR DANBOORU PASSWORD', api_key='YOUR API KEY')
 
         # Collect links
         while True:  # Checks if the list is full
