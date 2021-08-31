@@ -1,4 +1,4 @@
-# Hentai-Pictures-Downloader2.0
+# PICXS v2.2
 a small programm written in python and with the danbooru api. You can download a lot of anime and hentai pictures! You can also open them in a browser.
 
 
