@@ -1,5 +1,5 @@
 # PICXS v2.2
-a small programm written in python and with the danbooru api. You can download a lot of anime and hentai pictures! You can also open them in a browser.
+a small programm written in python and with the danbooru api. You can download a lot of anime pictures! You can also open them in a browser.
 
 
 At first you need to go to the danbooru website: https://danbooru.donmai.us/ create a acount and generate your own api key then you need to edit the main.py file 
